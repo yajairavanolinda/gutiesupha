@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oshohmeum.yangjing.bid/sitemap.xml
